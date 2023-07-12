@@ -8,7 +8,7 @@ import { ToasterProvider } from "@/providers/toast-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ecommerce | Admin Dashboard",
+  title: "AniStore | Dashboard",
   description: "Admin Panel of the ecommerce store using next.js 13",
 };
 
